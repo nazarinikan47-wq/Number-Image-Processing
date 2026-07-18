@@ -1,4 +1,4 @@
-````markdown
+
 # 🔢 Handwritten Digit Recognition using Machine Learning
 
 A machine learning project that classifies handwritten digits (0–9) using the **Scikit-learn Digits Dataset**. The project compares multiple classification algorithms, applies dimensionality reduction using PCA, and evaluates model performance with several metrics and visualizations.
@@ -176,5 +176,3 @@ Open the notebook and run all cells.
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-````
-
